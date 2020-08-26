@@ -16,4 +16,5 @@ The goal is to provide an totaly clear open-source solution of such a driver, in
 
 The following diagram shows the overall *simplified* idea:
 
-LINK TODO
+![ST-SPWM-AN1](ST-SPWM-AN1--block-diagram-07.png)
+

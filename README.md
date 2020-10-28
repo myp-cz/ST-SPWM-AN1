@@ -18,3 +18,7 @@ The following diagram shows the overall *simplified* idea:
 
 ![ST-SPWM-AN1](ST-SPWM-AN1--block-diagram-07.png)
 
+# Driver Board Schematics
+
+rev1 release on 28.10.2020
+![ST-SPWM-AN1](sch/LF_driver_rev1__28102020.pdf)
